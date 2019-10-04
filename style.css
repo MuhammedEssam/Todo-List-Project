@@ -1,0 +1,22 @@
+body.body-section {
+  background-color: lightgrey;
+}
+h1.header-one {
+  text-align: center;
+  padding: 1.5rem;
+}
+.header1 {
+  background-color: grey;
+}
+.todo-form {
+  padding: 2rem;
+}
+.todo-btn {
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+.todpqoute {
+  text-align: center;
+  font-size: 1.2rem;
+}
